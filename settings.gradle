@@ -1,0 +1,3 @@
+include ':strinks'
+rootProject.name = 'eddi-strinks'
+
